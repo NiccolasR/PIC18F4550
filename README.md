@@ -1,7 +1,8 @@
 # PIC18F4550
 Repositorio de microcontrolador PIC18F4550
 
-https://github.com/NiccolasR/PIC18F4550a/blob/main/40-pin%20PIC18F4550.PNG
+![image](https://user-images.githubusercontent.com/79501343/109368250-85b28a80-7866-11eb-9db9-d63aa04dcaa3.png)
+
 
 - Datasheet: https://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf
 - Ascci table: http://www.asciitable.com/
